@@ -24,7 +24,7 @@ openai_client = openai.OpenAI(
 
 class QueryRequest(BaseModel):
     query: str
-    model: str = "mistralai/Ministral-8B-Instruct-2410"
+    model: str = "gpt-3.5-turbo"
 
 class QueryResponse(BaseModel):
     sql: str
