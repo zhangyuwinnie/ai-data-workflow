@@ -52,6 +52,8 @@ Response includes:
 - Query results as JSON
 - Interactive Plotly chart as HTML
 
+![example chart](image.png)
+
 ### Other Endpoints
 - GET `/` - API info
 - GET `/tables` - Database schema
