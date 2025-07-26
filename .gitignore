@@ -1,0 +1,9 @@
+# Environments
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+data.db
